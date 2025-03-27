@@ -90,5 +90,6 @@
   "resolutions": {
     "@babel/preset-env": "7.18.2",
     "@swc/core": "1.4.8"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
